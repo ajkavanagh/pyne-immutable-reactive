@@ -15,9 +15,11 @@ do something about the default fonts, etc.
 4. [Follow](https://github.com/damianavila/RISE) option 2. (because
    I don't like conda on my machines -- no particular reason, to each
    their own):
+
    a) `pip install RISE`
    b) `jupyter nbextension install rise --py --sys-prefix`
    c) `jupyter nbextension enable rise --py --sys-prefix`
+
 5. `jupyter notebook`
 
 On my Linux machine it was `jupyter-nbextension ...` and on my Mac it was
