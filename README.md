@@ -16,9 +16,9 @@ do something about the default fonts, etc.
    I don't like conda on my machines -- no particular reason, to each
    their own):
 
-   a) `pip install RISE`
-   b) `jupyter nbextension install rise --py --sys-prefix`
-   c) `jupyter nbextension enable rise --py --sys-prefix`
+   * `pip install RISE`
+   * `jupyter nbextension install rise --py --sys-prefix`
+   * `jupyter nbextension enable rise --py --sys-prefix`
 
 5. `jupyter notebook`
 
